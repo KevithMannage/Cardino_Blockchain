@@ -30,3 +30,16 @@ A decentralized healthcare application built on the Cardano Preview testnet usin
 ```bash
 git clone https://github.com/KevithMannage/Cardino_Blockchain.git
 cd Cardino_Blockchain
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Start the development server:
+
+bash
+Copy
+Edit
+npm start
+The app will typically be available at http://localhost:3000.
